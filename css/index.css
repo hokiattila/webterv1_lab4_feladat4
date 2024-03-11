@@ -1,0 +1,41 @@
+.container {
+    width: 520px;
+    height: 520px;
+    background: #e4fb4c;
+}
+
+.ev {
+    margin-left: 270px;
+    display: inline-block;
+}
+
+.rb {
+    float: right;
+}
+
+.textnev {
+    width: 150px;
+    float: right;
+    margin-right: 5px;
+}
+
+.textemail {
+    float: right;
+    width: 220px;
+    margin-right: 5px;
+}
+
+.textszöveg {
+    height: 170px;
+    width: 300px;
+    float: right;
+    resize: none;
+    margin-right: 5px;
+}
+
+.gomb {
+    float: right;
+    margin-top: 5px;
+    margin-left: 200px;
+    margin-right: 5px;
+}
